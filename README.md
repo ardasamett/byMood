@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ardasamett-bymood-v1-app-s3zy0j.streamlit.app/">
-    <img src="images/bym_logo.png" alt="Logo" width=110 height=120>
+    <img src="images/bym_logo.png" alt="Logo" width=150 height=170>
   </a>
 
 

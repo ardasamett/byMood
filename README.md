@@ -71,7 +71,7 @@ We can create a more useful and bug-free platform by notifying us of the feature
 
 **Samet Arda Erdogan** : <https://www.linkedin.com/in/ardasamet/>
 
-**Umit Can Inozu** : <https://www.linkedin.com/in/%C3%BCmit-can-in%C3%B6z%C3%BC/>
+**Umit Can Inozu** : <https://www.linkedin.com/in/ümit-can-inözü/>
 
 
 

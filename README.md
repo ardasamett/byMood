@@ -13,7 +13,7 @@
 </center>
 
   <p align="center">
-    byMood predicts and categorizes your mood, which you type as a prompt, with sentiment analysis. In this way, it recommends you the best movies and books.
+    byMood predicts and categorizes your mood, which you type as a prompt, with sentiment analysis. In this way, it recommends you the best movies, books, and music.
     <br>
     
   </p>
@@ -36,13 +36,14 @@
 
 You can reach byMood by <a href="https://ardasamett-bymood-v1-app-s3zy0j.streamlit.app/"> clicking here </a>
 
-- Get book and movie recommendation by entering your mood as prompt
+- Get book, movie and music recommendations by entering your mood as prompt
   
 
 ## Features
 
 * Book Recommendation
 * Movie Recommendation
+* Music Recommendation
 
 ## Tech
 
@@ -57,8 +58,8 @@ You can reach byMood by <a href="https://ardasamett-bymood-v1-app-s3zy0j.streaml
 
 ## What we have in mind
 
-* byMood does not collect any data in v 0.1 (beta). We want to improve the model and system by collecting only prompts in new versions.
-* We don't want to settle for book and movie recommendations. We want to create a wider range of recommendation systems. We are working on it.
+* byMood does not collect any data in v0.2 (beta). We want to improve the model and system by collecting only prompts in new versions.
+* We don't want to settle for book, movie and music recommendations. We want to create a wider range of recommendation systems. We are working on it.
 * We want to get out of Streamlit's playground and create our own free garden. In this way, we aim to act more freely, increase our innovation and sustainability, and solve platform problems that may arise.
 
 ## Bugs, feature and contribution requests
@@ -78,4 +79,7 @@ We can create a more useful and bug-free platform by notifying us of the feature
 
 ## Changelog
 
-``v0.1``: Beta version is available.
+
+> 31/03/2023 |  Music recommendation added. Bug fixes. Version changed, version ``v0.2`` is available.
+
+> 27/03/2023 |  byMood released. Beta version ``v0.1`` is available.

@@ -8,7 +8,7 @@
 
 <center>
 
-![version](https://img.shields.io/badge/Version-0.1%20(Beta)-green)
+![version](https://img.shields.io/badge/Version-0.2%20(Beta)-green)
 
 </center>
 

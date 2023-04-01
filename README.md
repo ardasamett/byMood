@@ -25,6 +25,7 @@
 - [Table of contents](#table-of-contents)
 - [Quick start](#quick-start)
 - [Features](#features)
+- [How works](#how-works)
 - [Tech](#tech)
 - [What we have in mind](#what-we-have-in-mind)
 - [Bugs, feature and contribution requests](#bugs-feature-and-contribution-requests)
@@ -44,6 +45,10 @@ You can reach byMood by <a href="https://ardasamett-bymood-v1-app-s3zy0j.streaml
 * Book Recommendation
 * Movie Recommendation
 * Music Recommendation
+
+## How works
+
+byMood uses many different machine learning models and supporting algorithms. Basic working principle; It categorizes the prompt with the NLP method and transfers it to the recommendation system algorithms and machine learning models.
 
 ## Tech
 
@@ -74,6 +79,20 @@ We can create a more useful and bug-free platform by notifying us of the feature
 
 **Umit Can Inozu** : <https://www.linkedin.com/in/ümit-can-inözü/>
 
+
+## FAQ
+
+**Q1: What technologies does byMood use?** 
+
+* Mostly; Python, SQL, Pandas, Numpy, Scikit-learn, Tensorflow, Streamlit
+
+**Q2: What is the dataset source? Is the data up to date?** 
+
+* Datasets are updated weekly with a running API script.
+
+**Q3: Do machine learning models use feedback loops?** 
+
+* Currently, no data is collected in the current version(``v0.2``). So a feedback system is not integrated
 
 
 

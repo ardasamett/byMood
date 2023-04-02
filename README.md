@@ -35,7 +35,7 @@
 
 ## Quick start
 
-You can reach byMood by <a href="https://ardasamett-bymood-v1-app-s3zy0j.streamlit.app/"> clicking here </a>
+You can reach byMood by <a href="http://bymood.me/"> clicking here </a>
 
 - Get book, movie and music recommendations by entering your mood as prompt
   
